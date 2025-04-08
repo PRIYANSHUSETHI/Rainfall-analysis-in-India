@@ -132,4 +132,4 @@ Each analytical section is modular and well-commented:
 
 ## 📬 Contact
 
-For queries or collaborations, feel free to reach out via [yourname@email.com] or raise an issue.
+For queries or collaborations, feel free to reach out via [https://www.linkedin.com/in/priyanshu-sethi-bitsh/] or raise an issue.
